@@ -2,7 +2,7 @@
 
  ## 1. Motivation
    * The project Avatar Mobilité is motivated by the difficulty to find an alternative between the bike and the car. “I want to use my bike but I can’t because…” or “I don’t want to use my car but I don’t have any other choice…”
-   * Let's learn more about il : [Avatar Project](https://avatarmobilite.com/)
+   * Let's learn more about il : [Avatar Mobilité](https://avatarmobilite.com/)
 
  ## 2. Goal
    * The project Avatar is an open source vehicle. This vehicle is able to provide to people a solution for mobility in and outside the city : it has a low carbon footprint and it is affordable.
