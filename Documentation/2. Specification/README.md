@@ -19,18 +19,8 @@ Name of potential stakeholders :
   * Environmental activist
   * CNRV / UTAC
 
-#### *Project of the [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
-*The image below shows the stakeholders of  ADD-ONS of XYZ cargo as a graph*
+#### *Project of the [Avatar ADD-ONS](https://wikifactory.com/+avatarmobilite/avatar-add-ons)*
 
-  ![Image of stakeholder of ADD-ONS of XYZ cargo](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholders%20of%20XYZ%20cargo%20ADD-ONS.jpg)
-  
-<a href="https://app.diagrams.net/?libs=general#Hamerezoji1362%2Fdrawio-github%2Fmaster%2FStakeholders.drawio" target="_blank">Edit As New</a> | <a href="https://app.diagrams.net/#Hamerezoji1362%2Fdrawio-github%2Fmaster%2Fstakeholders.png">Edit in diagrams.net</a>
-</details>
-
-### Template of stakeholders
-  
-   * Stakeholder name 1
-   * ...
 
   ![Image of template of stakeholder diagram](https://github.com/OPEN-NEXT/WP2.3-Guideline-and-templatefor-documentation-of-OSH-design-reuse/blob/main/Sources/Images/Stakeholder%20diagram%20for%20template.jpg)
             
