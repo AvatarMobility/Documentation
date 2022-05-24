@@ -1,40 +1,24 @@
 # **Specification**
-
-*The specification consists in describing the product with a "black box" external view to capture the intermediate technical objects (stakeholders, external interfaces, services, and constraints) that serve to, *in fine*, elucidate the product requirements.*
-
-## **How to document the specifications?** 
   
 ## **1. Stakeholders:**
-<details>
-  <summary>Click to see the guideline!</summary>
-  
-- **Definition:** *Stakeholders generally refer to all the actors (human and non-human) who have an interest in a product. Among the stakeholders, there are both internal players, such as users and participants of the project, and external players that are represented by the potential user of products or external entities.*
+Name of potential stakeholders : 
+  * Families
+  * Repairman
+  * Maker / do-it-yourselfers / innovators
+  * Local authorities and institutions, cities
+  * Industrial partners
+  * University partners : CESI, EIGSI, EXCELIA …
+  * Agreements for testing (Harbors of La Rochelle) 
+  * Suppliers
+  * R&D organizations
+  * Designers / manufacturers who will be interested in designing accessories
+  * Health care (street medic, ...)
+  * Commercials : real estate agent, …
+  * Other potential customers
+  * Other potential users
+  * Environmental activist
+  * CNRV / UTAC
 
-- **Comments:**
-
-  - *A stakeholder is not necessarily a person (e.g. considering airports as a stakeholder when designing a two-deck aircraft).*
-  - *A stakeholder can indirectly affect the product (e.g. considering neighborhood when designing a nuclear power plant).*
-  - *A stakeholder can indirectly be affected by the product (e.g. considering the local biodiversity when designing an airport).*
- </details>
- 
-  <details>
-    <summary>Click to see the example!</summary>
-  
-  ```
-  What does contain the minimum documentation of the stakeholders? 
-  
-  Example of the ADD-ONS project of XYZ cargo
-  
-  - Specify the name of potential stakeholdrs 
-    - Environmental activist
-    - Repairmen
-    - Food producer
-    - Transporter
-    - Health care (street medic, ...)
-    - Makers
-    - Craftmen
-    - Other potential user
-  ```
 #### *Project of the [XYZ Cargo-ADD ONS](https://projects.opennext.eu/@xyz-cargo-add-ons/xyz-cargo-add-ons)*
 *The image below shows the stakeholders of  ADD-ONS of XYZ cargo as a graph*
 
